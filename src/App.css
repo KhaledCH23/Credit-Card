@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.credit-card-data{
+    bottom: 200px;
+    background: url('https://i.pinimg.com/originals/34/23/9b/34239bdd86f26fb777f0230a6c845f5a.jpg');
+    width:500px;
+  height:310px;
+    border-radius: 20px;
+    color: white;
+}
+.company-name{
+padding: 10px 0px 0px 200px;
+}
+.valid-thru{
+padding: 0px 0px 0px 200px;
+}
+.name{
+padding: 0px 350px 0px 0px;
+}
+.credit-number{
+    padding: 0px 300px 0px 0px;
+    background-color: rgb(321,312,43,0.5)
+}
+.chip{
+    width: 50px;
+    padding: 0px 400px 0px 0px;
+}
+.logo-card{
+    width: 100px;
+    position: absolute;
+    left: 480px;
+}
+.formulaire{
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+}
+.formulaire input{
+    margin: 5px;
+}
